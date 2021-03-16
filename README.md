@@ -1,6 +1,6 @@
 # my-mac
 
-### 1. software(软件)
+### 1. software
 
 | 序号 | 名称                                              | 说明                                                         |
 | :--: | ------------------------------------------------- | :----------------------------------------------------------- |
@@ -13,4 +13,5 @@
 |  7   | [Spectacle](https://github.com/eczarny/spectacle) | Spectacle allows you to organize your windows without using a mouse<br>键盘快捷键控制窗口大小和位置 |
 |  8   | [iTerm2](https://iterm2.com/)                     | iTerm2 is a terminal emulator for Mac OS X that does amazing things<br>终端模拟器 |
 |  9   | [IINA](https://www.iina.io/)                      | The modern media player for macOS<br>现代媒体播放器          |
+|  10  | [Typora](https://www.typora.io)                   | Markdown editor<br/>Markdown 编辑器                          |
 
